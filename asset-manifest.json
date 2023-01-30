@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/eshoper/static/js/main.d5521d6b.js",
+    "static/js/787.085e771a.chunk.js": "/eshoper/static/js/787.085e771a.chunk.js",
+    "index.html": "/eshoper/index.html",
+    "main.d5521d6b.js.map": "/eshoper/static/js/main.d5521d6b.js.map",
+    "787.085e771a.chunk.js.map": "/eshoper/static/js/787.085e771a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d5521d6b.js"
+  ]
+}
